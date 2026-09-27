@@ -1,5 +1,9 @@
 # Sistema de Gestão de Academia (PHP) 🏋️‍♂️💻
 
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Tecnologias](https://img.shields.io/badge/Tecnologias-PHP%20Vanilla%20(POO)-blue)
+![Deploy](https://img.shields.io/badge/Deploy-Local-orange)
+
 Este repositório contém o projeto de um sistema de gestão para academias de ginástica, desenvolvido inteiramente em PHP estruturado através dos pilares da Programação Orientada a Objetos (POO).
 
 ## 📌 O que é este projeto?
